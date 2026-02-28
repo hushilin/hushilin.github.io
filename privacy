@@ -1,0 +1,62 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>body {transition: opacity ease-in 0.2s; }
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style><script src="chrome-extension://jlpcnoohcpfgpbalhlggdhjocgnlgafn/assets/main-world.ts-4ed993c7.js" type="module"></script>
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+<meta name="color-scheme" content="light dark">
+<title>隐私政策</title>
+<style type="text/css">
+    body, html {
+        margin:0;
+        padding:0;
+        height:100%;
+        font-size:16px;
+        font-family: PingFangSC-Medium, sans-serif;
+    }
+    #box pre{
+        padding: 20px;
+        line-height: 24px;
+        white-space:pre-wrap; /* css3.0 */ 
+        white-space:-moz-pre-wrap; /* Firefox */ 
+        white-space:-pre-wrap; /* Opera 4-6 */ 
+        white-space:-o-pre-wrap; /* Opera 7 */ 
+        word-wrap:break-word; /* Internet Explorer 5.5+ */
+        font-family: PingFangSC-Medium, sans-serif;
+    }
+    </style>
+</head>
+<body>
+
+<div id="box">
+<pre>Version：V1.0.0
+    Effective date：2026/2/26
+
+    以下使用本软件代指 手包工具 以及涉及到的相关服务。
+
+    1. 数据存储
+    本软件注重个人数据隐私，您使用 手包工具 嗅探的所有 HTTP(S) 请求，全部只存储在您本地。手包工具 不会连接任何远程 VPN 服务器。
+    您在使用本软件产生数据之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本软件服务使用协议不可分割的一部分。
+
+    2. 数据搜集
+    为了保证本软件的稳定性，本软件将使用一些第三方服务，如 Fabric 进行崩溃收集，Cloudkit 做一些轻量级数据存储，这些服务只会搜集用户的错误数据（崩溃原因），以及必要的设备信息（设备型号、操作系统版本号）。
+
+    3. 法律条款
+    由于本软件在全球发布，您必须遵守您所在国家的法律规定。特别的，在中国，为维护网上公共秩序和社会稳定，请您自觉遵守以下条款：
+    一、不得利用本软件危害国家安全、泄露国家秘密，不得侵犯国家社会集体的和公民的合法权益，不得利用本软件制作、复制和传播下列信息：
+    （一）煽动抗拒、破坏宪法和法律、行政法规实施的；
+    （二）煽动颠覆国家政权，推翻社会主义制度的；
+    （三）煽动分裂国家、破坏国家统一的；
+    （四）煽动民族仇恨、民族歧视，破坏民族团结的；
+    （五）捏造或者歪曲事实，散布谣言，扰乱社会秩序的；
+    （六）宣扬封建迷信、淫秽、色情、赌博、暴力、凶杀、恐怖、教唆犯罪的；
+    （七）公然侮辱他人或者捏造事实诽谤他人的，或者进行其他恶意攻击的；
+    （八）损害国家机关信誉的；
+    （九）其他违反宪法和法律行政法规的；
+
+    二、禁止以任何方式对本软件进行各种破坏行为。
+
+    三、禁止以任何形式模仿、抄袭本软件，对本软件的知识产权造成破坏的行为。
+</pre>
+</div>
+</body>
+</html>
